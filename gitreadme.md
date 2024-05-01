@@ -45,3 +45,9 @@ git push main origin
 2.git status
 
 <!-- add files -->
+<!-- this add allfiles together -->
+3   git add .
+
+
+<!-- commit change and check status -->
+4. git commit -m 'all  new files added'
