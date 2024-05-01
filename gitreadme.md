@@ -51,3 +51,44 @@ git push main origin
 
 <!-- commit change and check status -->
 4. git commit -m 'all  new files added'
+
+
+<!-- create new repo on github where we want to push the code -->
+
+
+<!-- add rmoter orign  -->
+5 . 
+
+git remote add origin <- link ->
+
+<!-- 6. to verify the origin  -->
+
+git remote -v
+
+<!-- 7  to check branch -->
+
+git branch
+
+<!-- 8. to rename branch -->
+
+git branch -M main
+
+<!-- 9 push  -->
+
+git push origin main
+
+git push -u origin main
+
+
+
+
+
+
+<!-- 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rock257/tesrt.git
+git push -u origin main 
+-->
